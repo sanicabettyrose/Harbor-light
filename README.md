@@ -2,7 +2,7 @@
 <html lang="en"> 
 <head>
   <meta charset="UTF-8"
-<title>Harbor Light Community Center</title>
+<title>Harbor Light Community Center</head>
 </head> 
 <body>
 <font face="Arial, sans-serif">  
