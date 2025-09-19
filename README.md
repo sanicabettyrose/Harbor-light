@@ -1,7 +1,6 @@
 <!DOCTYPE html> 
-<html lang="en"> 
+<html> 
 <head>
-  <meta charset="UTF-8"
 <title>Harbor Light Community Center</head>
 </head> 
 <body>
